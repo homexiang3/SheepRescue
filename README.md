@@ -1,0 +1,9 @@
+# SheepRescue 
+
+##  Modifications:
+	
+	1. Parameters Refinement: Some tutorial parameters were refined after doing some tests for example the HayMachine speed
+	2. New Animals: Cats and Rabbits were introduced to add more difficulty to the game since they are faster than the sheep, they were also introduced visually on the title screen
+	3. Random generation: Now the spawned animal is random using the pool of available animals (cats, rabbits and sheeps)
+	4. Increasing generation: After saving 10 animals, the animal spawn generation is doubled to add more difficulty
+	5. Rain particles: Rain particles system were added to improve the original scenario
